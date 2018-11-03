@@ -1,4 +1,4 @@
-#!/usr/bin/python
+# PythonSpace/TheBasicModels/
 # Filename: if.py
 number = 23
 guess = int(input('Enter an integer : '))   #Create a 'Var.'
